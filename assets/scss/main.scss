@@ -1,0 +1,53 @@
+body {
+  background: #86b7fe36;
+}
+
+button {
+  border-radius: 10px!important;
+  padding-left: 1.5rem!important;
+  padding-right: 1.5rem!important;
+}
+
+.modal-header {
+  border-bottom: none!important;
+}
+.modal-footer {
+  border-top: none!important;
+}
+.card {
+  border: none!important;
+  border-radius: 10px!important;
+  //box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px!important;
+}
+
+.action-icon {
+  background: #e2e2e2;
+  border-radius: 10px;
+  padding: .5rem;
+  justify-items: center;
+}
+.action-icon-view:hover {
+  background: #0d6efd;
+  color: white;
+  cursor: pointer;
+}
+.action-icon-edit:hover {
+  background: #16a34a;
+  color: white;
+  cursor: pointer;
+}
+
+.action-icon-delete:hover {
+  background: #dc2626;
+  color: white;
+  cursor: pointer;
+}
+
+.action-icon-filter:hover {
+  background: rgba(226, 226, 226, 0.62);
+  cursor: pointer;
+}
+
+.form-control-sm {
+  border-radius: 10px!important;
+}
